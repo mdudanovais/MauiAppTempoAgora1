@@ -58,6 +58,4 @@ namespace MauiAppTempoAgora1
         }
     }
 }
-    }
-
-}
+    
